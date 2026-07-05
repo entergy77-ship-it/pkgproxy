@@ -1,3 +1,10 @@
+
+
+
+pkg install iptables
+
+
+
 /*
 pkgproxy is a caching proxy server specifically designed for caching Arch GNU/Linux packages for pacman.
 
